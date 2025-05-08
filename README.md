@@ -1,7 +1,7 @@
 # Bistro Bliss - Multipage Restaurant Website
 
 ## Live Demo
-Link: [Bistro Bliss(https://alexklearn.github.io/Web-development-week8-deployment/)]
+Link: (Bistro Bliss[https://alexklearn.github.io/Web-development-week8-deployment/])
 
 
 ## Overview
