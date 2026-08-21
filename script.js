@@ -1,3 +1,8 @@
+let footer = document.getElementById("footer-text")
+let year = new Date().getFullYear()
+footer.innerText = `© ${year} Bistro Bliss`
+
+
 // Loader - Placeholder for when the page resources loads
 // Hide loader when page is fully loaded
 window.addEventListener("load", () => {
