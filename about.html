@@ -23,7 +23,12 @@
   </section>
 
   <footer>
-    <p>&copy; 2025 Bistro Bliss</p>
+    <p id="footer-text">&copy; 2025 Bistro Bliss</p>
   </footer>
+  <script>
+    let footer = document.getElementById("footer-text")
+    let year = new Date().getFullYear()
+    footer.innerText = `© ${year} Bistro Bliss`
+  </script>
 </body>
 </html>
